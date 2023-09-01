@@ -12,12 +12,12 @@ document.getElementById('btn-submit').addEventListener('click', function () {
   
   // DANGER: DO NOT VERIFY email password on the client side
   // step-4: verify email and password and check whether valid user or not 
-  if (email === 'sontan@bap.com' && password === 'secret') {
+  if (email === 'AmarBaperOnekTK@gmail.com' && password === 'tky amr cinimini kore') {
     window.location.href = 'bank.html';
 
   }
   else {
-    alert('Tui password vule gecosh, Toke ami tejjo sontan gosona korlam. ')
+    alert('Tui password vule gecosh, tor tk pawer joggota ney. ')
   }
 
 })
